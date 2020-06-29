@@ -1,0 +1,41 @@
+
+****************************************************************************************************
+
+TAFE Course no:	ICT50615
+ICTICT514 Identify & manage the implementation of current ind.-spec tech.
+ICTWEB411 Produce basic client-side script for dynamic web pages
+
+****************************************************************************************************
+
+**************************************************
+Student Submission / Contact Info: 
+**************************************************
+Student Name:     Maurice O'Kington
+Student Number:   806502651
+**************************************************
+mauriceokington@mac.com                (primary)
+mauriceokington@gmail.com              (secondary)
+Maurice.Okington@studytafensw.edu.au   (other)
+**************************************************
+**************************************************
+
+****************************************************************************************************
+****************************************************************************************************
+
+Hi Steve, 
+Below are notes outlining the JavaScript used in this project. 
+
+1. Form Validation - contact.html
+The method I used uses form input attributes such as patter and placeholder as the 
+values to validate against. Please refer to the formValidate2.js file for detailed notes. 
+
+2. Gallery - singleprod-01.html (*all single prod pages)
+I've used the method from our class exersice in this gallery example. 
+
+3. Show / Hide - singleprod-01.html (*all single prod pages)
+Again I've used the class exercise as the base method applied to display song listing. 
+
+I hope this is enough and meets all unit requirements outlined in the assignment breif. 
+
+****************************************************************************************************
+****************************************************************************************************
